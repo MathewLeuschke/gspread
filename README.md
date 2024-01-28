@@ -1,4 +1,4 @@
-# Google Spreadsheets Python API v4
+**Google Spreadsheets Python API v4
 
 ![main workflow](https://img.shields.io/github/actions/workflow/status/burnash/gspread/main.yaml?logo=github)
 ![GitHub licence](https://img.shields.io/pypi/l/gspread?logo=github)
@@ -17,7 +17,7 @@ Features:
 - Sharing and access control.
 - Batching updates.
 
-## Installation
+ * Installation
 
 ```sh
 pip install gspread
@@ -269,3 +269,4 @@ Before opening an issue, search the tracker for possible duplicates. If you find
 ### Contribute code
 
 Please make sure to read the [Contributing Guide](https://github.com/burnash/gspread/blob/master/.github/CONTRIBUTING.md) before making a pull request.
+ 
